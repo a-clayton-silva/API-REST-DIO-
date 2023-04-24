@@ -83,8 +83,8 @@
 - Token Name [tokenApp]
 - Grant Type [Authorization code with pkce]
 - Callback URL [https://oauth.pstmn.io/v1/callback]
-- Auth URL [https://hotmaildiocog.auth.us-east-1.amazoncognito.com/oauth2/authorize]
-- Access Token URL [https://hotmaildiocog.auth.us-east-1.amazoncognito.com/oauth2/token]
+- Auth URL [https://diotestediocog.auth.us-east-1.amazoncognito.com/oauth2/authorize]
+- Access Token URL [https://diotestediocog.auth.us-east-1.amazoncognito.com/oauth2/token]
 - Client ID - obter o Client ID do Cognito em App clients
 - Scope [email - openid]
 - Client Authentication [Send client credentials in body]
